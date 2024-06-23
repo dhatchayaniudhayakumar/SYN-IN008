@@ -1,4 +1,4 @@
-# Simple Python Program to determine whether a given integer is Prime 
+# Simple Python Program to determine whether a given integer is Prime : 
 integer = 9
 if integer > 1:
     for i in range (2,(integer//2)+1):

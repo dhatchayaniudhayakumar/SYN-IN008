@@ -4,7 +4,7 @@ integer = 9
 if integer > 1:   
     #Iterate i from 2  to  integer//2 +1                              
     for i in range (2,(integer//2)+1):   
-        #if integer is divisible by any number of i ,it is noy prime         
+        #if integer is divisible by any number of i ,it is not prime         
         if (integer%i)==0:                        
           print("The integer is not a prime !")
         else:
